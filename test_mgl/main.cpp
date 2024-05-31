@@ -3387,7 +3387,7 @@ int main_glfw(int argc, const char * argv[])
     width = 512;
     height = 512;
     
-#if 1
+#if 0
     run_test_case(8, width, height);
 #else
     int test_num;
